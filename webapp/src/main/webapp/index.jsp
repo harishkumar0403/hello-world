@@ -1,1 +1,1 @@
- Hello, Welcome to Valaxy Technologies from bangalore  
+ Hello, Welcome to Valaxy Technologies 
