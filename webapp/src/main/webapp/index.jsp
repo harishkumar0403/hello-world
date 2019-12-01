@@ -1,2 +1,1 @@
-HI HOW R U
-this is my first code
+this is my new project ladybirdweb
